@@ -1,0 +1,26 @@
+
+body{
+		text-align: center;
+	
+
+}
+form{
+	color: blue;
+	border: 13px;
+}
+img{
+	width: 500px;
+	height:500px;
+	border: 2px solid #0000;
+}
+
+
+footer
+{
+width: 1340px;
+height: 88px;
+background-color: #AAAAAA;
+border: 2px solid #0000;
+margin: auto;
+text-align: center;
+}
