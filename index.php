@@ -13,7 +13,7 @@
 		<mark>Il faut remplirer ce formulaire pour se connecter</mark>
 	</p>
 
-	<form action = "traitement_f.php" method="post">
+	<form action = "stocke.php" method="post">
 		<strong>Votre nom :</strong> 
 		<input type = "text" name = "nom" value="Votre nom"><br />
 		<strong>votre prenom</strong>
