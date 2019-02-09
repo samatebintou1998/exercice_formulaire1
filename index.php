@@ -9,7 +9,7 @@
 	</header>
 	<p>
 		<h3>bienvenue</h3>
-		ATTENTION, LES PIRATES SONT COMPÉTENTS EN CRYPTOGRAPHIE…
+		ATTENTION, LES PIRATES SONT COMPÉTENTS EN CRYPTOGRAPHIE…<br>
 		<mark>Il faut remplirer ce formulaire pour se connecter</mark>
 	</p>
 
