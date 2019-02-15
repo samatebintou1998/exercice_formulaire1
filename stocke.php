@@ -11,8 +11,8 @@
 		{
 	// on affiche nos résultats
 	echo 'Votre nom est '.$_POST['nom'];
-	echo ' votre prenom est '.$_POST['prenom'];
-	echo ' et votre fonction est '.$_POST['fonction'];
+	echo ' votre prenom est '.$_POST['prenom'].'</b>';
+	echo ' et votre fonction est </b>'.$_POST['fonction'];
 }
 	 ?>
 
