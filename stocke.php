@@ -10,7 +10,9 @@
 	if (isset($_POST['nom']) && isset($_POST['prenom']) && isset($_POST['fonction']))
 		{
 	// on affiche nos résultats
-	echo 'Votre nom est '.$_POST['nom'].' , votre prenom est '.$_POST['prenom'].' et votre fonction est '.$_POST['fonction'];
+	echo 'Votre nom est '.$_POST['nom'];
+	echo ' votre prenom est '.$_POST['prenom'];
+	echo ' et votre fonction est '.$_POST['fonction'];
 }
 	 ?>
 
