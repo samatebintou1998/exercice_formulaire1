@@ -20,6 +20,10 @@
 		<input type="text" name="prenom" value="votre prenom"><br>
 		<strong>Votre fonction :</strong>
 		<input type = "text" name = "fonction" value="etudiant"><br />
+		<strong>votre date de naissance</strong>
+		<input type="text" name="date_naissance"><br>
+		<strong>votre identifiant_slack</strong>
+		<input type="text" name="identifiant_slack">
 		<input type = "submit" value = "connecter">
 	</form>
 
